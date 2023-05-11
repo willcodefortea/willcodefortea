@@ -10,6 +10,6 @@
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
     <img align=top src="https://github-readme-stats.vercel.app/api?username=willcodefortea&theme=aura&show_icons=true&hide_rank=true&custom_title=Stats&count_private=true&hide_border=true&hide=stars,issues,contribs&line_height=24&bg_color=0d1117" alt="Github stats"  />
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=willcodefortea&layout=compact&theme=aura&count_private=true&hide_border=true&bg_color=0d1117" alt="Top language stats">
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=willcodefortea&layout=compact&theme=aura&count_private=true&hide_border=true&bg_color=0d1117&langs_count=4" alt="Top language stats">
   </a>
 </p>
